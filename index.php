@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-<TITLE>测试</TITLE>
+<TITLE>¾­µäÑ­»·Àý×Ó</TITLE>
 </HEAD>
 <BODY>
 <?php
