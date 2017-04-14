@@ -1,10 +1,10 @@
 <HTML>
 <HEAD>
-<TITLE>¾­µäÑ­»·Àý×Ó</TITLE>
+<TITLE>哈哈哈</TITLE>
 </HEAD>
 <BODY>
 <?php
-    for($counter = 1; $counter < 700; $counter++)
+    for($counter = 1; $counter < 10; $counter++)
     {
         echo "<B>counter is ".$counter."</B><BR>\n"; 
     }
