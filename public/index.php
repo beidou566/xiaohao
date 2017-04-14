@@ -4,7 +4,7 @@
 </HEAD>
 <BODY>
 <?php
-    for($counter = 1; $counter < 7; $counter++)
+    for($counter = 1; $counter < 700; $counter++)
     {
         echo "<B>counter is ".$counter."</B><BR>\n"; 
     }
