@@ -12,8 +12,7 @@ class WXPay extends CI_Controller {
 	
 
 	// pay order
-	function index() {
-		echo "This is 111 function.";   
+	function index() { 
 		// 		初始化值对象
 		$input = new WxPayUnifiedOrder();
 		// 		文档提及的参数规范：商家名称-销售商品类目
