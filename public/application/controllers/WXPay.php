@@ -1,15 +1,18 @@
 <?php
 require_once __DIR__ . '/lib/WxPay.Api.php';
 
-
+/*
 class BaseController extends CI_Controller { 
 function construct() { parent::construct(); 
 MasterKey Client::initialize("vD0Lu89vaQ0EA8HoJCnJT1Tm-gzGzoHsz", "RoAHHfD2YQFIlG9wkHFbGuSS", "JOnK6LJ5ASQuo0slXYeRmn7Y"); 
 } }
-
+*/
 
 class WXPay extends CI_Controller {
 	
+	public function hello() {   
+          echo "This is hello function.";   
+		  } 
 
 	// pay order
 	function index() { 
